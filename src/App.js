@@ -11,7 +11,7 @@ const KEY_RIGHT = 39
 const KEY_DOWN = 40
 
 export default class App extends React.Component {
-  initialSnakeLength = 20
+  initialSnakeLength = 10
 
   constructor (props) {
     super(props)

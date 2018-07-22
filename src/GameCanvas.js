@@ -4,7 +4,7 @@ import GameOverImage from './game-over.png'
 export const CanvasSettings = {
   pixelWidth: 600,
   pixelHeight: 400,
-  gamePixelSize: 20
+  gamePixelSize: 10
 }
 
 export class GamePixel {
